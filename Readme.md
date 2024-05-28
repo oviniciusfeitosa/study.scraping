@@ -18,6 +18,7 @@
     - [ ] [API para previsão de preços de apartamentos na cidade de São Paulo](https://pt.linkedin.com/pulse/api-para-previs%C3%A3o-de-pre%C3%A7os-apartamentos-na-cidade-s%C3%A3o-silva)
   - Tutorials
     - Videos
+      - [ ] [This AI Agent can Scrape ANY WEBSITE!!!](https://www.youtube.com/watch?v=ncnm3P2Tl28)
       - [ ] [Build universal web scraping agent](https://www.youtube.com/watch?v=dSX5eoD4-u4)
       - [ ] [Staying Undetected and Unblocked - Scrapy Tutorial Series Part#11](https://www.youtube.com/watch?v=sGTrqQECZ2E)
 - Tools
