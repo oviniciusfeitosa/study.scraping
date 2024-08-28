@@ -1,7 +1,5 @@
 # Data extraction
 
-![](./map.drawio.svg)
-
 ## How to
 
 - To better view, press "Period key"(`.`)
